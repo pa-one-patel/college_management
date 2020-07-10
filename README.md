@@ -1,4 +1,4 @@
-# Schoolmanagement
+# collegemanagement
 
 ## Following software is used in this project
 - Python Version 3.7.6
